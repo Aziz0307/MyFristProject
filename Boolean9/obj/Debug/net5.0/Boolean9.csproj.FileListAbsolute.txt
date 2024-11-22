@@ -1,0 +1,16 @@
+C:\Users\aziz0\RiderProjects\Boolean9\Boolean9\bin\Debug\net5.0\Boolean9.exe
+C:\Users\aziz0\RiderProjects\Boolean9\Boolean9\bin\Debug\net5.0\Boolean9.deps.json
+C:\Users\aziz0\RiderProjects\Boolean9\Boolean9\bin\Debug\net5.0\Boolean9.runtimeconfig.json
+C:\Users\aziz0\RiderProjects\Boolean9\Boolean9\bin\Debug\net5.0\Boolean9.runtimeconfig.dev.json
+C:\Users\aziz0\RiderProjects\Boolean9\Boolean9\bin\Debug\net5.0\Boolean9.dll
+C:\Users\aziz0\RiderProjects\Boolean9\Boolean9\bin\Debug\net5.0\ref\Boolean9.dll
+C:\Users\aziz0\RiderProjects\Boolean9\Boolean9\bin\Debug\net5.0\Boolean9.pdb
+C:\Users\aziz0\RiderProjects\Boolean9\Boolean9\obj\Debug\net5.0\Boolean9.csproj.AssemblyReference.cache
+C:\Users\aziz0\RiderProjects\Boolean9\Boolean9\obj\Debug\net5.0\Boolean9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aziz0\RiderProjects\Boolean9\Boolean9\obj\Debug\net5.0\Boolean9.AssemblyInfoInputs.cache
+C:\Users\aziz0\RiderProjects\Boolean9\Boolean9\obj\Debug\net5.0\Boolean9.AssemblyInfo.cs
+C:\Users\aziz0\RiderProjects\Boolean9\Boolean9\obj\Debug\net5.0\Boolean9.csproj.CoreCompileInputs.cache
+C:\Users\aziz0\RiderProjects\Boolean9\Boolean9\obj\Debug\net5.0\Boolean9.dll
+C:\Users\aziz0\RiderProjects\Boolean9\Boolean9\obj\Debug\net5.0\ref\Boolean9.dll
+C:\Users\aziz0\RiderProjects\Boolean9\Boolean9\obj\Debug\net5.0\Boolean9.pdb
+C:\Users\aziz0\RiderProjects\Boolean9\Boolean9\obj\Debug\net5.0\Boolean9.genruntimeconfig.cache
